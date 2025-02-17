@@ -15,7 +15,7 @@
 - **CAD & Engineering Tools:** SolidWorks, AutoCAD, MATLAB
 
 ## 📂 Portfolio Website
-🔹 **[Portfolio Website](https://chahanareddy.netlify.app/)** – Responsive personal website using HTML, CSS, and JavaScript  
+🔹 **[Portfolio Website](https://chahanareddy.netlify.app/)** – Responsive personal website using HTML, CSS, JavaScript and Node.js 
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chahana-reddy-952a43281/)  
