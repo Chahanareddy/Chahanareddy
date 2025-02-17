@@ -5,7 +5,7 @@
 💻 Interested in **software development and data**  
 
 ## 💡 About Me
-- I love working with **data**  
+- I love working with **data to automate processes**  
 - Currently interning at **Sable Metal Fabrication**  
 - I enjoy **hiking in the summer, swimming, and skating in the winter**  
 - Always eager to learn and take on **new challenges**  
