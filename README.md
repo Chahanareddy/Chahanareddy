@@ -2,7 +2,7 @@
 
 🎓 Studying **Systems Design Engineering @ University of Waterloo**  
 🔧 Passionate about **technology, innovation, and data**  
-💻 Interested in **software development**  
+💻 Interested in **software development and data**  
 
 ## 💡 About Me
 - I love working with **data**  
