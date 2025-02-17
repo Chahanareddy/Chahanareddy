@@ -14,7 +14,7 @@
 - **Softwares:** C++, Java, Python, JavaScript, HTML, CSS, Node.js, SQL, Power BI
 - **CAD & Engineering Tools:** SolidWorks, AutoCAD, MATLAB
 
-## 📂 Protfolio Website
+## 📂 Portfolio Website
 🔹 **[Portfolio Website](https://chahanareddy.netlify.app/)** – Responsive personal website using HTML, CSS, and JavaScript  
 
 ## 📫 Let's Connect!
