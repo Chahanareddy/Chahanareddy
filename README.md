@@ -8,7 +8,6 @@
 - I love working with **data to automate processes and improve efficiency**  
 - Currently interning at **Sable Metal Fabrication**  
 - I enjoy **hiking in the summer, swimming, and skating in the winter**  
-- Always eager to learn and take on **new challenges**  
 
 ## 🚀 Skills & Technologies
 - **Softwares:** C++, Java, Python, JavaScript, HTML, CSS, Node.js, SQL, Power BI
