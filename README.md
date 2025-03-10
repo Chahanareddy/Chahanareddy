@@ -22,5 +22,5 @@
 
 ---
 
-*"Designing with purpose, coding with passion."*  
-🚀 **Always building, always learning!**
+
+🚀
