@@ -10,7 +10,7 @@
 - I enjoy **hiking in the summer, swimming, and skating in the winter**  
 
 ## 🚀 Skills & Technologies
-- **Softwares:** C++, Java, Python, React, JavaScript, HTML, CSS, SQL, Power BI, Power Automate
+- **Softwares:** C++, Java, Python, React, HTML/CSS, JavaScript, SQL, Power BI, Power Automate
 - **CAD & Engineering Tools:** SolidWorks, AutoCAD, MATLAB
 
 ## 📂 Portfolio Website
