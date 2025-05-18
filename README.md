@@ -1,7 +1,6 @@
 # Hi, I'm Chahana Reddy! 👋
 
-🎓 Studying **Systems Design Engineering @ University of Waterloo**  
-🔧 Passionate about **technology, innovation, and data**  
+🎓 Studying **Systems Design Engineering @ University of Waterloo**
 💻 Interested in **software development and data**  
 
 ## 💡 About Me
@@ -11,7 +10,7 @@
 
 ## 🚀 Skills & Technologies
 - **Softwares:** C++, Java, Python, React, HTML/CSS, JavaScript, SQL, Power BI, Power Automate
-- **CAD & Engineering Tools:** SolidWorks, AutoCAD, MATLAB
+- **CAD & Engineering Tools:** SolidWorks, AutoCAD, MATLAB, Arduino
 
 ## 📂 Portfolio Website
 🔹 **[Portfolio Website](https://chahanareddy.netlify.app/)** – Responsive personal website using HTML, CSS, JavaScript
