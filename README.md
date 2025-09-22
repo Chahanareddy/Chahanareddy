@@ -10,7 +10,7 @@
 
 ## 🚀 Skills & Technologies
 - **Languages:** Java, C++, Python, SQL, Javascript, Typescript, HTML/CSS
-- - **Tools/frameworkds:** React, Node.js, Express.js, Next.js, Tailwind CSS, Chrome DevTools, Jira
+- **Tools/frameworkds:** React, Node.js, Express.js, Next.js, Tailwind CSS, Chrome DevTools, Jira
 - **CAD & Engineering Tools:** SolidWorks, AutoCAD, MATLAB, Arduino, Power BI, PowerApps
 
 ## 📂 Portfolio Website
