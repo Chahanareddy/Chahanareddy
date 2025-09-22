@@ -9,8 +9,9 @@
 - I enjoy **hiking in the summer, swimming, and skating in the winter**  
 
 ## 🚀 Skills & Technologies
-- **Softwares:** C++, Java, Python, React, HTML/CSS, JavaScript, SQL, Power BI, Power Automate
-- **CAD & Engineering Tools:** SolidWorks, AutoCAD, MATLAB, Arduino
+- **Languages:** Java, C++, Python, SQL, Javascript, Typescript, HTML/CSS
+- - **Tools/frameworkds:** React, Node.js, Express.js, Next.js, Tailwind CSS, Chrome DevTools, Jira
+- **CAD & Engineering Tools:** SolidWorks, AutoCAD, MATLAB, Arduino, Power BI, PowerApps
 
 ## 📂 Portfolio Website
 🔹 **[Portfolio Website](https://chahanareddy.netlify.app/)** – Responsive personal website using HTML, CSS, JavaScript
