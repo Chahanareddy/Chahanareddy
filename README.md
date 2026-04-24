@@ -13,7 +13,7 @@
 - **CAD & Engineering Tools:** SolidWorks, AutoCAD, Power BI, PowerApps
 
 ## Portfolio Website
-🔹 **[Portfolio Website](https://chahanareddy.netlify.app/)** - Check it out!!
+🔹 **[Portfolio Website](https://chahanareddy.xyz/)** - Check it out!!
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chahana-reddy-952a43281/) 
