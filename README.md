@@ -8,8 +8,8 @@
 - Prev Full Stack intern @ **Kenna Technologies**
 - Prev Data Automation intern @ **Sable**
 
-- Building Electriumap @ **Electrium Mobility**- crowdsourced EV charging stations map
-[Github](https://github.com/Electrium-Mobility/electriumap)
+- Building Electriumap @ **Electrium Mobility**- crowdsourced EV charging stations map <br>
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Electrium-Mobility/electriumap)
 
 ## Skills & Technologies
 - **Languages**: JavaScript, TypeScript, Python, Java, C++, C#, Go, SQL, GraphQL, HTML/CSS
