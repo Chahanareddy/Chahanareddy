@@ -8,7 +8,7 @@
 - Prev Full Stack intern @ **Kenna Technologies**
 - Prev Data Automation intern @ **Sable**
 
-- Building Electriumap @ **Electrium Mobility**- crowdsourced EV charging stations map <br>
+- Building Electriumap @ **Electrium Mobility**- crowdsourced EV charging stations map 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Electrium-Mobility/electriumap)
 
 ## Skills & Technologies
