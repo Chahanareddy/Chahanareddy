@@ -9,7 +9,7 @@
 - Prev Data Automation intern @ **Sable**
 
 - Building Electriumap @ **Electrium Mobility**- crowdsourced EV charging stations map
-- [![Github]https://github.com/Electrium-Mobility/electriumap]
+[Github](https://github.com/Electrium-Mobility/electriumap)
 
 ## Skills & Technologies
 - **Languages**: JavaScript, TypeScript, Python, Java, C++, C#, Go, SQL, GraphQL, HTML/CSS
