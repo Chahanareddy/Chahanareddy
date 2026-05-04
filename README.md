@@ -1,16 +1,22 @@
 # Hi, I'm Chahana Reddy! 👋
 
 🎓 Studying **Systems Design Engineering @ University of Waterloo**<br>
-💻 Interested in **software development and data**  
+💻 Interested in **Software Development + data + AI**
 
 ## About Me
-- Full Stack Engineer intern @ **Kenna Technologies**
+- Software Engineer intern @ **Symmetry Commmerce** - Shopify Plus Partner
+- Prev Full Stack intern @ **Kenna Technologies**
+- Prev Data Automation intern @ **Sable**
+
+- Building Electriumap @ **Electrium Mobility**- crowdsourced EV charging stations map
+- [![Github]https://github.com/Electrium-Mobility/electriumap]
 
 ## Skills & Technologies
-- **Languages:** Python, Java, Scala, C++, C#, Go, SQL, TypeScript, JavaScript, HTML/CSS
-- **Frameworks/Tools:** React, Node.js, Express.js, Next.js, Jenkins, Docker, Git, Bash, Linux, MATLAB
-- **Cloud & Databases:** AWS, GCP, Snowflake, Firestore, MongoDB
-- **CAD & Engineering Tools:** SolidWorks, AutoCAD, Power BI, PowerApps
+- **Languages**: JavaScript, TypeScript, Python, Java, C++, C#, Go, SQL, GraphQL, HTML/CSS
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, Spring boot
+- **DevOps & CI/CD**: Docker, Kubernetes, Jenkins, Github Actions, Git, Bash, Linux
+- **Cloud & Databases**: AWS, GCP, Snowflake, MongoDB, Firestore, PostgreSQL, Azure
+- **CAD & Engineering**: SolidWorks, AutoCAD, Power BI, PowerApps, MATLAB
 
 ## Portfolio Website
 🔹 **[Portfolio Website](https://chahanareddy.xyz/)** - Check it out!!
