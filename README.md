@@ -3,7 +3,7 @@
 🎓 Studying **Systems Design Engineering @ University of Waterloo**<br>
 
 ## About Me
-- SWE intern @ **Symmetry Commmerce** | Prev: SWE intern @ **Kenna Technologies** | Data Automation intern @ **Sable**
+- SWE intern @ **Symmetry Commmerce** (Shopify Partner Agency) | Prev: SWE intern @ **Kenna Technologies** | Data Automation intern @ **Sable**
 
 - Building Electriumap @ **Electrium Mobility**- crowdsourced EV charging stations map 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Electrium-Mobility/electriumap)
