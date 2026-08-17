@@ -2,12 +2,6 @@
 
 🎓 Studying **Systems Design Engineering @ University of Waterloo**<br>
 
-## About Me
-- SWE intern @ **Symmetry Commerce** (Shopify Partner Agency) | Prev: SWE intern @ **Kenna Technologies** | Data Automation intern @ **Sable**
-
-- Building Electriumap @ **Electrium Mobility**- crowdsourced EV charging stations map 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Electrium-Mobility/electriumap)
-
 ## Skills & Technologies
 - **Languages**: JavaScript, TypeScript, Python, Java, C++, C#, Go, SQL, GraphQL, HTML/CSS
 - **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, Spring boot
